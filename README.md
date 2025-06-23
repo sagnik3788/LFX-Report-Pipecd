@@ -1,5 +1,5 @@
 
-# 📘 LFX Mentorship Report - PipeCD Plugin Development
+## LFX Mentorship Report - PipeCD Plugin Development
 
 ---
 
