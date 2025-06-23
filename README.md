@@ -17,7 +17,7 @@
 
 | Week | PR Title                         | Description                                | PR Link |
 |------|----------------------------------|--------------------------------------------|---------|
-| 1    | Configuration for OpenTofu       | Added support for parsing OpenTofu configs | [#22](https://github.com/pipe-cd/community-plugins/pull/22) |
+| 1    | Configuration for OpenTofu       |  OpenTofu configs | [#22](https://github.com/pipe-cd/community-plugins/pull/22) |
 | 2    | ...                              | ...                                        | ...     |
 
 
