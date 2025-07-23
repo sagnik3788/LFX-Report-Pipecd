@@ -18,7 +18,7 @@
 | Task | PR Title                         | Description                                | PR Link |
 |------|----------------------------------|--------------------------------------------|---------|
 | 1    | Configuration for OpenTofu       |  OpenTofu configs | [#22](https://github.com/pipe-cd/community-plugins/pull/22) |
-| 2    | ToolRegistry of Opentofu plugin  |  ToolRegistry for OpenTofu bassically how to install tofu binary  | [#23](https://github.com/pipe-cd/community-plugins/pull/23) |
+| 2    | ToolRegistry of Opentofu plugin  |  ToolRegistry for OpenTofu basically how to install tofu binary  | [#23](https://github.com/pipe-cd/community-plugins/pull/23) |
 
 
 >  *This table will be updated weekly with new PRs and summaries.*
