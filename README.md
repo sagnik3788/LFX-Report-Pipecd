@@ -20,6 +20,8 @@
 | 1    | Configuration for OpenTofu       |  OpenTofu configs | [#22](https://github.com/pipe-cd/community-plugins/pull/22) |
 | 2    | ToolRegistry of Opentofu plugin  |  ToolRegistry for OpenTofu basically how to install tofu binary  | [#23](https://github.com/pipe-cd/community-plugins/pull/23) |
 | 3    | BuildQuickSyncStages and BuildPipelineSyncStages | convert the configs to stage instructions for quicksync and pipelinesync | [#26](https://github.com/pipe-cd/community-plugins/pull/26) |
+| 4    | opentofu Plan stage | tofu plan and init implmentation | [#28](https://github.com/pipe-cd/community-plugins/pull/28) |
+| 5    |  DetermineVersions method | to show the artifact versions on the ui | [#34](https://github.com/pipe-cd/community-plugins/pull/34) |
 
 
 >  *This table will be updated weekly with new PRs and summaries.*
