@@ -7,7 +7,7 @@
 
 - **Program**: LFX Mentorship Program (Summer 2025)
 - **Organization**: PipeCD
-- **Mentor**: *[Mentor Name]*
+- **Mentor**: Khanh Tran, Tetsuya KIKUCHI
 - **Focus**: OpenTofu Plugin Development for PipeCD
 - **Tech Stack**: Go, OpenTofu, Gitops
 
