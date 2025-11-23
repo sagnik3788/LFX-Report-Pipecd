@@ -26,8 +26,6 @@
 | 6    |   rollback stage | tofu rollback implementation | [#37](https://github.com/pipe-cd/community-plugins/pull/37) |
 
 
->  *This table will be updated weekly with new PRs and summaries.*
-
 ---
 
 
